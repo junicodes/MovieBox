@@ -1,0 +1,13 @@
+.rmdb-notfound {
+    width: 100%;
+    height: 100vh;
+    background: #1c1c1c;
+    box-sizing: border-box;
+    position: fixed;
+}
+.rmdb-notfound h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    color: white;
+}
